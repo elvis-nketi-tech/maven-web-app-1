@@ -26,7 +26,7 @@ public class EmployeeService {
 		js.put("Calling Name", "mylandmark");
 		js.put("DOB", "May 1, 2005");
 		js.put("Hobbies", "Praying, Singing, Reading Technical Blogs,Teaching, Helping to Poor People..");
-		js.put("Places he like", "Africa, NA, Bali");
+		js.put("Places he like", "Canada, NA, Bali");
 		return js.toString();
 }
 }
