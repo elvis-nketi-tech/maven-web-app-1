@@ -7,11 +7,11 @@
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
 	
-	<name>maven-web-application</name>
+	<name>LionTech-web-application</name>
 
 	<description>Maven Web Project for Java Project</description>
 	<organization>
-		<name>Landmark Technologies</name>
+		<name>Lion Technologies</name>
 		<url>http://landmarktechnologies.com/</url>
 	</organization>
 
@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>maven-web-app</finalName>
+		<finalName>liontech-web-app</finalName>
 		
 		<plugins>
 			<plugin>
